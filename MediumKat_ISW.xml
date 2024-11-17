@@ -111,11 +111,11 @@
 	<type>hidfast</type>
 	<index>2</index>
 	<scale>-0.512698413</scale>
-	<upperLimit>162.3216911764706</upperLimit>
-	<lowerLimit>31.0</lowerLimit>
+	<upperLimit>154.3216911764706</upperLimit>
+	<lowerLimit>23.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>120.0</staticOffset>
+	<staticOffset>112.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
