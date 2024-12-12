@@ -605,11 +605,11 @@
 	<type>hidfast</type>
 	<index>7</index>
 	<scale>-0.512698413</scale>
-	<upperLimit>138.75000000000003</upperLimit>
-	<lowerLimit>35.625</lowerLimit>
+	<upperLimit>168.64030948200178</upperLimit>
+	<lowerLimit>65.51530948200177</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>64.10969051799823</staticOffset>
+	<staticOffset>94.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
@@ -689,11 +689,11 @@
 	<type>hidfast</type>
 	<index>6</index>
 	<scale>-0.512698413</scale>
-	<upperLimit>158.0</upperLimit>
-	<lowerLimit>3.0</lowerLimit>
+	<upperLimit>163.0416616844443</upperLimit>
+	<lowerLimit>15.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>90.9583383155557</staticOffset>
+	<staticOffset>96.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
@@ -774,10 +774,10 @@
 	<index>15</index>
 	<scale>-0.512698413</scale>
 	<upperLimit>180.0</upperLimit>
-	<lowerLimit>30.0</lowerLimit>
+	<lowerLimit>34.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>107.0</staticOffset>
+	<staticOffset>111.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
